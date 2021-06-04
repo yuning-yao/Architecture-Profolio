@@ -12,4 +12,4 @@ reference:
 https://pannellum.org/documentation/overview/tutorial/
 <br>
 ### CONCEPTUAL COLLAGE
-<https://yuning-yao.github.io/Architecture-Profolio/image/Yuning(Lyla)_Yao_Assignment 2.GIF>
+<img alt="Lyla" src="https://yuning-yao.github.io/Architecture-Profolio/image/Yuning(Lyla)_Yao_Assignment 2.GIF?raw=true" width="300">
